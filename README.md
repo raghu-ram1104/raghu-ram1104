@@ -1,12 +1,12 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Hello+World%2C+I'm+Raghuram+Srikanth+%F0%9F%91%8B;CS+Undergrad+%7C+Full+Stack+Dev+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raghuram%20Srikanth&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Undergrad%20%7C%20Full%20Stack%20Dev%20%7C%20Problem%20Solver&descAlignY=52&descSize=18" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" height="250" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="250" alt="Developer at desk coding" />
 </div>
 
 <br/>
@@ -28,8 +28,8 @@ education:
   degree: B.Tech Computer Science and Engineering
   status: Undergraduate
 
-currently_learning: ["Advanced Algorithms", "System Design", "Cloud Computing"]
-interests: ["Full Stack Development", "Competitive Programming", "Open Source"]
+currently_learning: ["Advanced Algorithms", "Springboot", "Cloud Computing"]
+interests: ["Full Stack Development", "Embedded-System Programming", "App Development"]
 hobbies: ["Coding", "Designing", "Exploring New Technologies"]
 
 fun_fact: "I believe clean code is not written by following a set of rules — it's written by refactoring."
@@ -138,5 +138,5 @@ fun_fact: "I believe clean code is not written by following a set of rules — i
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
