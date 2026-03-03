@@ -72,14 +72,20 @@ fun_fact: "I believe clean code is not written by following a set of rules — i
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raghu-ram1104&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=raghu-ram1104&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/raghu-ram1104">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghu-ram1104&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/raghu-ram1104">
+    <img width="49%" src="https://streak-stats.demolab.com?user=raghu-ram1104&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghu-ram1104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/raghu-ram1104">
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghu-ram1104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
@@ -95,7 +101,9 @@ fun_fact: "I believe clean code is not written by following a set of rules — i
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghu-ram1104&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%" />
+  <a href="https://github.com/raghu-ram1104">
+    <img src="https://github-profile-trophy.vercel.app/?username=raghu-ram1104&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
