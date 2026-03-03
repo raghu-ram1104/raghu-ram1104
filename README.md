@@ -97,17 +97,6 @@ fun_fact: "I believe clean code is not written by following a set of rules — i
 
 ---
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <a href="https://github.com/raghu-ram1104">
-    <img src="https://github-profile-trophy.vercel.app/?username=raghu-ram1104&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
 <!-- Profile Summary Cards -->
 <h2 align="center">📈 Profile Summary</h2>
 
