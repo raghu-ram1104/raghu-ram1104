@@ -72,14 +72,14 @@ fun_fact: "I believe clean code is not written by following a set of rules — i
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghu-ram1104&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raghu-ram1104&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=raghu-ram1104&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghu-ram1104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghu-ram1104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -91,15 +91,34 @@ fun_fact: "I believe clean code is not written by following a set of rules — i
 
 ---
 
-<!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghu-ram1104/raghu-ram1104/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghu-ram1104/raghu-ram1104/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/raghu-ram1104/raghu-ram1104/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=raghu-ram1104&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%" />
+</div>
+
+---
+
+<!-- Profile Summary Cards -->
+<h2 align="center">📈 Profile Summary</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghu-ram1104&theme=tokyonight" alt="Profile Details" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raghu-ram1104&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raghu-ram1104&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raghu-ram1104&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raghu-ram1104&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ---
