@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="250" alt="Developer at desk coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" height="250" alt="Coding animation" />
 </div>
 
 <br/>
